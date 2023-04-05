@@ -1,0 +1,18 @@
+body{
+  padding: 10px;
+}
+.inp{
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  border: 3px solid rgb(179, 165, 165);
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.layerContent{
+  border: 1px solid black;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
